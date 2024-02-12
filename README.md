@@ -1,1 +1,3 @@
 # TravelVista
+# Tecnologias
+HTML,BOOTSRAP,PHP,PYTHON,JAVASCRIPT E MYSQL.
