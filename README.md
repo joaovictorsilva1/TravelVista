@@ -1,4 +1,4 @@
-# TravelVista
+# TravelVista - Discover your perfect getaway, wherever you roam
 TravelVista is a vacation rental website designed to make the accommodation booking experience easy and convenient. Below are the main features that the site offers to its users:
 
 Advanced Search
