@@ -51,4 +51,4 @@ For partners and external developers, TravelVista offers a robust API that allow
 
 These are just some of the key features that TravelVista offers to its users to make the vacation accommodation booking process simple, convenient, and enjoyable.
 # Technologies
-HTML,BOOTSRAP,PHP,PYTHON,JAVASCRIPT E MYSQL.
+HTML,CSS,BOOTSRAP,PHP,PYTHON,JAVASCRIPT E MYSQL.
